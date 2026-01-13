@@ -6,11 +6,6 @@
 
 <br/>
 
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=LuriSerdan&theme=omni&show_icons=true" height="200" max-widht="100%"> 
-  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuriSerdan&theme=omni" height="200" max-widht="100%">
-</P>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
