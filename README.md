@@ -1,4 +1,4 @@
-<h1 style="color:blue;">Hi, I'm Luri Serdan!<img src="https://media.tenor.com/4U11qvtSrdYAAAAi/monokuma-danganronpa.gif" height="70px"> </h1>
+<h1 style="color:blue;">Hi, I'm Luri Serdan!</h1>
 
 - A front-end developer from Brazil.
 - Currently studying Systems Analysis and Development at IFSP, the Federal Institute of São Paulo.
